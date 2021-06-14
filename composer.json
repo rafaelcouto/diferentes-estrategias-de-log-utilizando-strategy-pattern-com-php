@@ -1,0 +1,12 @@
+{
+    "name": "rafaelcouto/logging-strategy-pattern",
+    "require": {
+        "php": ">=8.0",
+        "joshtronic/php-loremipsum": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "LoggingStrategyPattern\\": "src/"
+        }
+    }
+}
