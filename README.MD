@@ -13,7 +13,7 @@ Um exemplo prático de utilização do padrão de projeto **Strategy Pattern** c
 - Utilizar o Composer para instalar dependências e gerar autoload das classes;
 
     ```shell´
-    composer update
+    composer install
     ```
 
 - Editar o arquivo [examples/config/database.php](examples/config/database.php) com as informações de acesso no banco de dados.
